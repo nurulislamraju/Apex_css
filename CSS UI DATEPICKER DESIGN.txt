@@ -1,0 +1,46 @@
+body .ui-datepicker td a.ui-state-default.ui-state-active, body .ui-datepicker td span.ui-state-default.ui-state-active {
+    background-color: #da1b1b;
+    color: #fff;
+    font-weight: 700;
+}
+
+
+body .ui-datepicker td a.ui-state-default.ui-state-highlight, body .ui-datepicker td span.ui-state-default.ui-state-highlight {
+    background-color: #da1b1b;
+    color: #262626;
+}
+#ui-datepicker-div .ui-widget-header {
+    border-color: #ebebeb;
+    background-color: #607d8b;
+    color: #262626;
+}
+
+#ui-datepicker-div .ui-widget-content, body .ui-widget.ui-widget-content {
+    border-color: #ebebeb;
+    color: #000000;
+
+    background: linear-gradient( 
+135deg
+ ,rgba(29,29,29,.05),rgba(29,29,29,.05) 17%,rgba(27,27,27,.05) 0,rgba(27,27,27,.05) 34%,rgba(31,31,31,.05) 0,rgba(31,31,31,.05) 93%,hsla(0,0%,94.9%,.05) 0,hsla(0,0%,94.9%,.05)),linear-gradient( 
+135deg
+ ,hsla(0,0%,50.6%,.05),hsla(0,0%,50.6%,.05) 66%,hsla(0,0%,45.9%,.05) 0,hsla(0,0%,45.9%,.05) 91%,hsla(0,0%,78%,.05) 0,hsla(0,0%,78%,.05)),linear-gradient( 
+135deg
+ ,rgba(31,31,31,.07),rgba(31,31,31,.07) 15%,hsla(0,0%,54.5%,.07) 0,hsla(0,0%,54.5%,.07) 23%,hsla(0,0%,78.4%,.07) 0,hsla(0,0%,78.4%,.07) 29%,hsla(0,0%,40%,.07) 0,hsla(0,0%,40%,.07)),linear-gradient( 
+90deg
+ ,#9dfffd,#bbf6ff);
+    width: 18%;
+}
+.a-Icon.icon-calendar {
+    color: white;
+}
+button.ui-datepicker-trigger.a-Button.a-Button--calendar {
+    background: linear-gradient( 
+135deg
+ ,rgba(29,29,29,.05),rgba(29,29,29,.05) 17%,rgba(27,27,27,.05) 0,rgba(27,27,27,.05) 34%,rgba(31,31,31,.05) 0,rgba(31,31,31,.05) 93%,hsla(0,0%,94.9%,.05) 0,hsla(0,0%,94.9%,.05)),linear-gradient( 
+135deg
+ ,hsla(0,0%,50.6%,.05),hsla(0,0%,50.6%,.05) 66%,hsla(0,0%,45.9%,.05) 0,hsla(0,0%,45.9%,.05) 91%,hsla(0,0%,78%,.05) 0,hsla(0,0%,78%,.05)),linear-gradient( 
+135deg
+ ,rgba(31,31,31,.07),rgba(31,31,31,.07) 15%,hsla(0,0%,54.5%,.07) 0,hsla(0,0%,54.5%,.07) 23%,hsla(0,0%,78.4%,.07) 0,hsla(0,0%,78.4%,.07) 29%,hsla(0,0%,40%,.07) 0,hsla(0,0%,40%,.07)),linear-gradient( 
+0deg
+, #54859d 0%, #009688 100%);
+}
